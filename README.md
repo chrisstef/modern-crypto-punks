@@ -14,3 +14,9 @@ In the project directory, you can run:
 ### `npm start`
 
 
+## DEMO
+
+Click here: https://chrisstef.github.io/Modern-Crypto-Punks
+
+
+P.S. Will be upgrading occasionally with new features added. Stay tuned!!
