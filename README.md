@@ -16,6 +16,6 @@ In the project directory, you can run:
 ### `npm start`
 
 
-Click here:
 
+### Or click here:
 <a href="https://chrisstef.github.io/Modern-Crypto-Punks/" rel="nofollow">Live Session</a>
