@@ -1,0 +1,29 @@
+.punkList {
+  cursor: pointer;
+  display: flex;
+  overflow: scroll;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid white;
+}
+
+.punkList::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+.punkList::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+.punkList::-webkit-scrollbar-thumb {
+  background: #9c2028;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+.punkList::-webkit-scrollbar-thumb:hover {
+  background: #d04a5b; 
+}
