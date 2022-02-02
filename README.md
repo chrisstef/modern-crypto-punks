@@ -11,7 +11,7 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
 # Screenshot
 
-![plot](../owner/screencapture-Modern-Crypto-Punks.png)
+![alt text](https://github.com/chrisstef/Modern-Crypto-Punks/src/assets/owner/screencapture-Modern-Crypto-Punks.png?raw=true)
 
 
 ## Languages
