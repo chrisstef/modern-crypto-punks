@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Modern-Crypto-Punks/static/css/main.02d683a3.css",
+    "main.css": "/Modern-Crypto-Punks/static/css/main.16b5ee06.css",
     "main.js": "/Modern-Crypto-Punks/static/js/main.97c1a188.js",
     "static/media/weth.png": "/Modern-Crypto-Punks/static/media/weth.4101f1dacb92484cfd3f.png",
     "static/media/cryptopunk-logo.png": "/Modern-Crypto-Punks/static/media/cryptopunk-logo.8bee49d57faa44bb66f5.png",
     "index.html": "/Modern-Crypto-Punks/index.html",
-    "main.02d683a3.css.map": "/Modern-Crypto-Punks/static/css/main.02d683a3.css.map",
+    "main.16b5ee06.css.map": "/Modern-Crypto-Punks/static/css/main.16b5ee06.css.map",
     "main.97c1a188.js.map": "/Modern-Crypto-Punks/static/js/main.97c1a188.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d683a3.css",
+    "static/css/main.16b5ee06.css",
     "static/js/main.97c1a188.js"
   ]
 }
