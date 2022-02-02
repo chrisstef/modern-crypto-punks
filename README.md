@@ -36,7 +36,7 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 ## Build Setup 
 
 # clone project
-$ git clone https://github.com/kasim393/NFT-Marketplace.git
+$ git clone https://github.com/chrisstef/Modern-Crypto-Punks.git
 
 # install dependencies
 $ npm install
