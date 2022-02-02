@@ -11,7 +11,7 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
 # Screenshot
 
-![plot](./directory_1/directory_2/.../Downloads/screencapture-localhost-3000-Modern-Crypto-Punks-2022-02-03-00_23_40.png)
+![plot](./assets/owner/screencapture-Modern-Crypto-Punks.png)
 
 
 ## Languages
