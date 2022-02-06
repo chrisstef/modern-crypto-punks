@@ -38,11 +38,11 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
 ## Build Setup 
 
-#### clone project
+### clone project
 $ git clone https://github.com/chrisstef/Modern-Crypto-Punks.git
 
-#### install dependencies
+### install dependencies
 $ npm install
 
-#### serve with host at localhost:8000
+### serve with host at localhost:8000
 $ npm start
