@@ -1,7 +1,6 @@
 ## React Nft Challenge.
 
-''In this application we build a modern Cryptopunk clone with React Js & Web 3.0.''
-
+''In this application we build a modern Cryptopunk clone with React Js & Web 3.0.''<br>
 The address as well as the punks are displayed dynamicaly straight from Opensea.
 
 In depth we are..
