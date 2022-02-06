@@ -1,10 +1,13 @@
 ## React Nft Challenge.
 
-In this application we build a modern Cryptopunk clone with React Js & Web 3.0.
+''In this application we build a modern Cryptopunk clone with React Js & Web 3.0.''
+The address as well as the punks are displayed dynamicaly straight from Opensea.
 
-- Using Thirdweb to build the backend needed for our Ethereum APP
+In depth we are..
 
-- Using React JS to build the Frontend of our Web Application while we estabilish connection with our NFT collection on OpenSea.
+- Using Thirdweb to build the backend needed for our Ethereum App.
+
+- Using React JS to build the Frontend of our web app while we estabilish connection with our NFT collection on OpenSea.
 
 The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
