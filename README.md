@@ -5,9 +5,9 @@ The address as well as the punks are displayed dynamicaly straight from Opensea.
 
 In depth we are..
 
-- Using Thirdweb to build the backend needed for our Ethereum App.
+- Using Thirdweb to build the backend of our Ethereum-based app.
 
-- Using React JS to build the Frontend of our web app while we estabilish connection with our NFT collection on OpenSea.
+- Using React JS to build the frontend while we estabilish connection with our NFT collection on OpenSea.
 
 The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
