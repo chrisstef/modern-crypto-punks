@@ -1,7 +1,7 @@
 ## React Nft Challenge.
 
 ''In this application we build a modern Cryptopunk clone with React Js & Web 3.0.''<br>
-The address as well as the punks are displayed dynamicaly straight from Opensea.
+The address as well as the punks are displayed dynamicaly from Opensea Marketplace.
 
 In depth we are..
 
@@ -34,15 +34,3 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 - OpenSea
 - git
 ```
-
-
-## Build Setup 
-
-### clone project
-$ git clone https://github.com/chrisstef/Modern-Crypto-Punks.git
-
-### install dependencies
-$ npm install
-
-### serve with host at localhost:8000
-$ npm start
