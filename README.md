@@ -19,11 +19,11 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
 ## Languages
 ```
-- html
-- css
-- javascript
-- react.js
-- web3.js
+- HTML
+- CSS
+- Javascript
+- React.js
+- Web3.js
 ```
 
 
@@ -32,5 +32,6 @@ The scripts will be upgrading occasionally with new features added. Stay tuned!!
 - Metamask
 - Thirdweb
 - OpenSea
-- git
+- Git
+- Visual Studio Code
 ```
