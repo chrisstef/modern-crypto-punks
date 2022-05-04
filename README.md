@@ -6,11 +6,11 @@ The address as well as the punks are displayed dynamicaly from **Opensea Marketp
 
 https://testnets.opensea.io/collection/modern-crypto-punks-v2
 
-In depth we are..
+Stack used:
 
-- Using Thirdweb to build the **backend** of our Ethereum-based app.
+- Thirdweb to build the **backend** of our Ethereum-based app.
 
-- Using React JS to build the **frontend** while we estabilish connection with our NFT collection on **OpenSea**.
+- React JS to build the **frontend**.
 
 The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
