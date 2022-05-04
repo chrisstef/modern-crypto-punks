@@ -1,7 +1,8 @@
 ## React Nft Challenge.
 
 In this application we build a modern Cryptopunk clone with React Js & Web 3.0.<br>
-The address as well as the punks are displayed dynamicaly from Opensea Marketplace.
+The address as well as the punks are displayed dynamicaly from **Opensea Marketplace**.
+https://testnets.opensea.io/collection/modern-crypto-punks-v2
 
 In depth we are..
 
