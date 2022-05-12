@@ -8,9 +8,9 @@ https://testnets.opensea.io/collection/modern-crypto-punks-v2
 
 Stack used:
 
-- Thirdweb to build the **backend** of our Ethereum-based app.
+- __Thirdweb__ to build the **backend** of our Ethereum-based app.
 
-- React JS to build the **frontend**.
+- __React JS__ to build the **frontend**.
 
 The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
