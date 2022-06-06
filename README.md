@@ -1,4 +1,4 @@
-## React Nft Challenge
+## Modern Crypto Punks
 
 In this application we build a modern Cryptopunk clone with React Js & Web 3.0.<br>
 
