@@ -11,7 +11,7 @@ https://testnets.opensea.io/collection/modern-crypto-punks-v2
 
 - __Thirdweb__ to build the **backend** of our Ethereum-based app.
 
-- __React JS__ to build the **frontend**.
+- __React.js__ to build the **frontend**.
 
 The scripts will be upgrading occasionally with new features added. Stay tuned!!
 
